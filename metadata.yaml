@@ -1,0 +1,29 @@
+_repo: Tobacco--Its-History-Varieties-Culture-Manufacture-and-Commerce_24471
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Billings, E. R.
+    gutenberg_agent_id: '26515'
+    url: http://www.gutenberg.org/2009/agents/26515
+description: ''
+gutenberg_bookshelf: Horticulture
+gutenberg_issued: '2008-01-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24471'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'HV'
+- !lcsh 'Tobacco use'
+- !lcc 'DS'
+- !lcc 'SB'
+- !lcsh 'Tobacco -- History'
+- !lcsh 'Tobacco industry -- History'
+title: Tobacco; Its History, Varieties, Culture, Manufacture and Commerce
+url: http://www.gutenberg.org/ebooks/24471
